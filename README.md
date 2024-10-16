@@ -1,0 +1,2 @@
+# macos-wm
+MacOS settings 
