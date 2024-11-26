@@ -86,9 +86,9 @@ esc = 'mode main'
 1 = ['Q27G2SG4', 'main']
 2 = ['Q27G2SG4', 'main']
 3 = ['Q27G2SG4', 'main']
-4 = ['27G1G4', 'main']
-5 = ['27G1G4', 'main']
-6 = ['27G1G4', 'main']
+4 = ['27G1G4', '^built-in retina display$', 'main']
+5 = ['27G1G4', '^built-in retina display$', 'main']
+6 = ['27G1G4', '^built-in retina display$', 'main']
 7 = ['^built-in retina display$', 'secondary']
 8 = ['^built-in retina display$', 'secondary']
 
