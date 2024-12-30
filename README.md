@@ -18,5 +18,8 @@ ln .ideavimrc ~/.ideavimrc
 ln .zshrc ~/.zshrc
 ``` 
 
+```
+ln ghostty ~/.config/ghostty
+```
 ## Commands
 1. `make aerospace` to reload aerospace after config changes

@@ -15,7 +15,7 @@ after-startup-command = [
 ]
 [mode.main.binding]
 # See: https://nikitabobko.github.io/AeroSpace/goodness#open-a-new-window-with-applescript
-alt-enter = 'exec-and-forget open -n /Applications/iTerm.app'
+alt-enter = 'exec-and-forget open -n /Applications/Ghostty.app'
 
 # i3 wraps focus by default
 alt-left  =         'focus --boundaries-action wrap-around-the-workspace left'
