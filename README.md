@@ -23,3 +23,7 @@ ln ghostty ~/.config/ghostty
 ```
 ## Commands
 1. `make aerospace` to reload aerospace after config changes
+
+
+## tmux 
+$ `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
